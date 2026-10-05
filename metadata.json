@@ -1,0 +1,8 @@
+{
+  "name": "Vision AI",
+  "description": "AI/ML Threat Detection Pipeline for Unidirectional Hardware Data Diodes & Passive Enclaves in Critical Infrastructure",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
